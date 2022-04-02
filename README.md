@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subhranil-179
+- 👋 Hi, I’m Subhranil
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ... ?
 - 
