@@ -4,7 +4,7 @@
 - 
 - 💞️ I’m looking to collaborate on : 
 - Python projects 
-- Front end and Backend(only in python as of now)
+- Front end and Backend(only in Django as of now)
 - 
 - 📫 How to reach me :
 - Mail: subhranilsaikat@gmail.com
