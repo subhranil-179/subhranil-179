@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Subhranil
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and dying :) 
 - 🌱 I’m currently learning ... ?
 - 
 - 💞️ I’m looking to collaborate on : 
 - Python projects 
 - Front end and Backend(only in Django as of now)
+- Anything just ask me
 - 
 - 📫 How to reach me :
 - Mail: subhranilsaikat@gmail.com
