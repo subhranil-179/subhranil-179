@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Subhranil
-- 👀 I’m interested in Coding and dying :) + your mum
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning ... ?
 - 
 - 💞️ I’m looking to collaborate on : 
